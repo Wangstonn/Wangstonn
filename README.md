@@ -3,7 +3,7 @@ I am a first year PhD student in Prof. Hun-Seok Kim's lab. My interest are in de
 and implementing them in VLSI technologies.
 
 ## News
-Contact:
+## Contact:
 https://www.linkedin.com/in/winstonmw/
 
 wangston@umich.edu
